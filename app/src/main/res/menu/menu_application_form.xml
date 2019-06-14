@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/maximize"
+        android:title="@string/maximize_all"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/minimize"
+        android:title="@string/minimize_all"
+        app:showAsAction="never" />
+</menu>

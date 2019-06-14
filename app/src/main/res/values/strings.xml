@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CITAM Schools</string>
+    <string name="home">Home</string>
+    <string name="schools">Schools</string>
+    <string name="Shuttle">Shuttle Location</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="events">Events</string>
+    <string name="admission">Admission</string>
+    <string name="share">Share</string>
+    <string name="about_app">About App</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="copyright">Copyright 2019 CITAM</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+    <string name="enquire">Enquire</string>
+    <string name="full_names">Full Names</string>
+    <string name="email_address">Email Address</string>
+    <string name="message">Message</string>
+    <string name="submit">Submit</string>
+    <string name="drop_us_a_line_if_there_s_anything_we_love_it_s_talking_with_people_who_support_our_mission">Drop Us a line.</string>
+    <string name="subject">Subject</string>
+    <string name="quick_facts">Quick Facts</string>
+    <string name="classrooms">Classrooms</string>
+    <string name="hangars">Hangars</string>
+    <string name="syndicate_room_a_or_b">Syndicate</string>
+    <string name="premier">Premier</string>
+    <string name="maximize_all">Maximize all</string>
+    <string name="minimize_all">Minimize All</string>
+    <string name="courses">Courses</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="section_1_course_details">School Details</string>
+    <string name="course_date">Course Date</string>
+    <string name="section_2_personal_information">Personal Information</string>
+    <string name="surname">Surname</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="parents_information">Parent/ Guardian Infromation</string>
+    <string name="job_title" />
+    <string name="section_3_contact_information">Contact Information</string>
+    <string name="mailing_address">Postal Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="section_4_declaration">Declaration</string>
+    <string name="i_hereby_confirm_that_the_information_given_above_is_correct_i_understand_that_any_misrepresentation_of_facts_in_this_application_could_because_for_suspension_or_expulsion_from_the_institution_if_discovered_after_enrollment">I hereby confirm that the information given hereby is correct.</string>
+    <string name="i_agree">I agree</string>
+    <string name="apply_now">Apply now</string>
+    <string name="age">Age</string>
+    <string name="dob">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="contactname">Contact Name</string>
+    <string name="residence">Area of Residence</string>
+    <string-array name="schools">
+        <item>Select School</item>
+        <item>Woodley</item>
+        <item>Buruburu</item>
+        <item>Parklands</item>
+        <item>Athi River</item>
+
+    </string-array>
+
+    <string-array name="classes">
+        <item>Select Class</item>
+        <item>Kindergaten</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+</resources>
